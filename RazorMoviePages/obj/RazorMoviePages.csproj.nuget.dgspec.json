@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\craig\\source\\repos\\RazorMoviePages\\RazorMoviePages\\RazorMoviePages.csproj": {}
+    "C:\\Users\\craig\\source\\repos\\RazorMoviePages2\\RazorMoviePages\\RazorMoviePages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\craig\\source\\repos\\RazorMoviePages\\RazorMoviePages\\RazorMoviePages.csproj": {
+    "C:\\Users\\craig\\source\\repos\\RazorMoviePages2\\RazorMoviePages\\RazorMoviePages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\craig\\source\\repos\\RazorMoviePages\\RazorMoviePages\\RazorMoviePages.csproj",
+        "projectUniqueName": "C:\\Users\\craig\\source\\repos\\RazorMoviePages2\\RazorMoviePages\\RazorMoviePages.csproj",
         "projectName": "RazorMoviePages",
-        "projectPath": "C:\\Users\\craig\\source\\repos\\RazorMoviePages\\RazorMoviePages\\RazorMoviePages.csproj",
+        "projectPath": "C:\\Users\\craig\\source\\repos\\RazorMoviePages2\\RazorMoviePages\\RazorMoviePages.csproj",
         "packagesPath": "C:\\Users\\craig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\craig\\source\\repos\\RazorMoviePages\\RazorMoviePages\\obj\\",
+        "outputPath": "C:\\Users\\craig\\source\\repos\\RazorMoviePages2\\RazorMoviePages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
